@@ -36,3 +36,8 @@ a:link {
 	color: #fc9767;
 	font-family: "Fira Code";
   }
+  #sidebar {
+	background-color: #2d2d2d;
+	color: #cdd6f4;
+	font-family: "Fira Code";
+ }
