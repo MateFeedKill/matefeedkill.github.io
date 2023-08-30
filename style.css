@@ -1,1 +1,38 @@
-
+body {
+	background-color: #3b3b3b;
+	color: #cdd6f4;
+	font-family: "Fira Code";
+}
+p {
+	background-color: #302d31;
+	color: #cdd6f4;
+	font-family: "Fira Code";
+}
+iframe[name="main"] {
+	background-color: #777378;
+	color: #cdd6f4;
+	font-family: "Fira Code";
+}
+/* unvisited link */
+a:link {
+	color: #77dbe7;
+	font-family: "Fira Code";
+  }
+  
+  /* visited link */
+  a:visited {
+	color: #77dbe7;
+	font-family: "Fira Code";
+  }
+  
+  /* mouse over link */
+  a:hover {
+	color: #ffd766;
+	font-family: "Fira Code";
+  }
+  
+  /* selected link */
+  a:active {
+	color: #fc9767;
+	font-family: "Fira Code";
+  }
